@@ -11,3 +11,5 @@ cd [nomdossier]
 
 pip install -r requirements.txt
 streamlit run app.py
+
+
